@@ -49,3 +49,20 @@ input
 {
     color: #FF7700;
 }
+.environment_li
+{
+    margin-top: 30px;
+}
+.environment_li h4
+{
+    border-bottom: 2px solid white;
+    padding: 8px;
+}
+.environment_li img
+{
+    border-radius: 25px;
+}
+.environment_li p
+{
+    margin-top: 10px;
+}
